@@ -1,1 +1,3 @@
-## Text Summarizer Project
+## description of the project
+
+> > > > > > > 482877b (added requirements)
