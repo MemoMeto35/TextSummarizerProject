@@ -1,1 +1,5 @@
 [2025-10-16 15:58:31,055: INFO: main: Welcome to our custom logging]
+[2025-10-16 21:47:05,337: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-10-16 21:47:05,343: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-10-16 21:47:05,344: INFO: common: created directory at: artifacts]
+[2025-10-16 21:47:05,347: INFO: common: created directory at: artifacts/data_ingestion]
