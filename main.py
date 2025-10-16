@@ -1,5 +1,5 @@
-from textSummarizer.pipleline.stage_01_data_ingestion import DataIngestionTrainingPipeline
-from textSummarizer.logging import logger
+from src.textSummarizer.pipleline.stage_01_data_ingestion import DataIngestionTrainingPipeline
+from src.textSummarizer.logging import logger
 
 STAGE_NAME = "Data Ingestion Stage"
 try:
